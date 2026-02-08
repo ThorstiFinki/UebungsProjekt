@@ -1,4 +1,4 @@
-package com.example.anneuebungsprojekt.AutoArea;
+package com.example.uebungsprojekt.AutoArea;
 
 public class Taxi extends Auto {
 
